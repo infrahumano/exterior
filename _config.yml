@@ -4,7 +4,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Exterior
+title:            exterior
 tagline:          'Todo lo que fue'
 description:      'Para que vuelva a ser'
 url:              https://infrahumano.github.io/exterior
