@@ -8,4 +8,4 @@ sidebar_link: true
 Esta es una libreta de notas de <a
 href="http://twitter.com/infrahumano">Javier Moreno</a>. Reportes desde Toronto, Canadá.
 <br><br>
-Montado sobre <a href="https://pages.github.com/">Github Pages</a> con el tema <a href="https://github.com/fongandrew/hydeout">Hydeout</a>.</p>
+Montada sobre <a href="https://pages.github.com/">Github Pages</a> con el tema <a href="https://github.com/fongandrew/hydeout">Hydeout</a>.</p>
