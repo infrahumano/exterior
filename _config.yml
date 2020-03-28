@@ -5,8 +5,8 @@ highlighter:      rouge
 
 # Setup
 title:            exterior
-tagline:          'Todo lo que fue'
-description:      'Para que vuelva a ser'
+tagline:          'todo lo que fue'
+description:      'para que vuelva a ser'
 url:              https://infrahumano.github.io/exterior
 
 author:
