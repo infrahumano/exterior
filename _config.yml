@@ -7,6 +7,7 @@ highlighter:      rouge
 title:            exterior
 description:      'ya nadie se acuerda de lo que quería ser'
 url:              https://infrahumano.github.io/exterior
+sidebar_home_link: false
 
 author:
   name:           'javier moreno'
