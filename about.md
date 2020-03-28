@@ -1,13 +1,11 @@
----
-layout: page
-title: About
-sidebar_link: true
+--- 
+layout: page 
+title: acerca 
+sidebar_link: true 
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+<p class="message"> 
+Este es un block de notas de <a
+href="http://twitter.com/infrahumano">Javier Moreno</a>. 
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Reportes desde Toronto, Canadá.</p>
