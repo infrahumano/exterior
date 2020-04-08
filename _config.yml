@@ -12,7 +12,7 @@ author:
   name:           'javier moreno'
   url:            https://twitter.com/infrahumano
 
-paginate:         5
+paginate:         10
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
