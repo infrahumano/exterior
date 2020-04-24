@@ -13,6 +13,7 @@ Cuando quiero escribir una entrada voy a mi terminal y escribo:
 ```
 
 Esto abre `vim` en un archivo markdown con el nombre y preámbulo apropiado para que sea después procesado por [Jekyll](http://jekyllrb.com).
+<!--more-->
 
 El código de `post.py` va así:
 
