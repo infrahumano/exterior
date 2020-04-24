@@ -62,7 +62,7 @@ def generate_post():
 
 if __name__ == '__main__':
     generate_post()
-{% endhightlight %}
+{% endhighlight %}
 
 Probablemente hay una versión más bonita con un shellscript pero a mí me gusta usar python.
 
