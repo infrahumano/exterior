@@ -7,10 +7,10 @@ excerpt_separator: <!--more-->
 
 Cuando quiero escribir una entrada voy a mi terminal y escribo: 
 
-{% highlight shell %}
+```
 ➜  ~ cd Documents/exterior/_posts 
 ➜  _posts git:(master) ✗ ./post.py
-{% endhighlight %}
+```
 
 Esto abre `vim` en un archivo markdown con el nombre y preámbulo apropiado para que sea después procesado por [Jekyll](http://jekyllrb.com).
 
