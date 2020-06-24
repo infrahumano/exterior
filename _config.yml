@@ -7,7 +7,6 @@ highlighter:      rouge
 title:            exterior
 description:      'ya nadie se acuerda de lo que quería ser'
 url:              https://infrahumano.github.io/exterior
-name:             exterior
 twitter_username: infrahumano
 title_image:      https://infrahumano.github.io/exterior/assets/espiral_voronoi.png
 
@@ -15,7 +14,7 @@ author:
   name:           'javier moreno'
   url:            https://twitter.com/infrahumano
 
-  paginate:         10
+paginate:         10
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
