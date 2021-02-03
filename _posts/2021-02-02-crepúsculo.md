@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 ---
 El viernes de madrugada hubo un incendio en el barrio. Las ambulancias y camiones de bomberos sonaban a lo lejos. En Twitter leí sobre una casa. Más adelante leí que había muertos. Pensé en el terror de esas personas y en la desolación de los que sobrevivieran.
 
-Más tarde, ya casi de noche, M. leyó detalles y por las fotos descubrimos que era la casa de nuestra amiga Arija, su mamá, Jojo, y Kay, el hijo de Arija y Daniel. De inmediato, y más que nada motivadas por un reflejo hecho de angustia, nos abrigamos y salimos caminando hacia la casa, para confirmar lo que ya sabíamos. Creo que hasta el momento cuando vimos la casa incinerada y rodeada de bomberos y policía todavía teníamos la ilusión de que fuera otra, en otra calle, unos metros más al norte o sur. 
+Más tarde, ya casi de noche, M. leyó detalles y por las fotos descubrimos que era la casa de nuestra amiga Arija, su mamá, Jojo, y Kai, el hijo de Arija y Daniel. De inmediato, y más que nada motivadas por un reflejo hecho de angustia, nos abrigamos y salimos caminando hacia la casa, para confirmar lo que ya sabíamos. Creo que hasta el momento cuando vimos la casa incinerada y rodeada de bomberos y policía todavía teníamos la ilusión de que fuera otra, en otra calle, unos metros más al norte o sur. 
 
 Durante el fin de semana aprendimos que tanto Kai como Jojo habían muerto. Arija está en cuidados intensivos. Dicen que se recupera aunque sufrió daño pulmonar serio. Escapó saltando por la ventana del segundo piso. Hay varias colectas a su nombre por parte de amigos y familiares. No sabemos mucho más. No tenemos conocidas mutuas.  
 
