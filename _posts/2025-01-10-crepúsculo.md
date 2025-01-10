@@ -5,7 +5,7 @@ comments: false
 excerpt_separator: <!--more-->
 ---
 
-De vuelta por acá porque descubrí que tengo una cicatriz en el dedo meñique de la mano izquierda que no recurdo de dónde viene.
+De vuelta por acá porque descubrí que tengo una cicatriz en el dedo meñique de la mano izquierda que no recuerdo de dónde viene ni cómo pasó.
 
 Y peor aún, mis ojos empezaron a flaquear hace unos meses y me cuesta trabajo ver de cerca. Así que solo puedo ver esa cicatriz bajo condiciones especiales: sin gafas, con la mano muy cerca a mi cara, cerrando uno de los dos ojos para poder enfocar. 
 
