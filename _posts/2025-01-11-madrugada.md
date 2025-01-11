@@ -19,4 +19,4 @@ También me contaron que a veces, por la mañana, cuando rociaba la endeble plac
 
 Pero al final esos fueron los dos únicos días de ese invierno cuando la pista de hielo fue lo que pretendía ser. El lunes todo se derritió y durante el resto del invierno, pese a los cuidados, pese a la atención, pese al trabajo dedicado de ese señor que nunca perdió la ilusión, la temperatura nunca se mantuvo lo suficientemente estable bajo el nivel requerido para que el hielo persistiera. 
 
-Este invierno, que no hay pista, el prado está inundado y una capa de hielo gruesa se extiende lentamente a lo largo y ancho del área donde hace un año había un marco esperándola con ansia.  
+Este invierno, que no hay pista, el prado está inundado y una capa de hielo gruesa natural se extiende lentamente a lo largo y ancho del área donde hace un año había un marco esperándola con ansia.  
