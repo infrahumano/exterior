@@ -15,8 +15,8 @@ Un hombre en particular visitaba el proyecto cada día, por la mañana. Alguien 
 
 Finalmente, hacia inicios de diciembre, parecía que el esfuerzo pagaría. Durante dos días hubo juegos y caídas, lo usual. Eso me contaron.
 
-También me contaron que a veces, por la mañana, cuando rociaba la endeble placa de hielo con la manguera, el hombre terminaba cubierto por una fina capa de aagua congelada que brillaba bajo el sol ocasional. 
+También me contaron que a veces, por la mañana, cuando rociaba la endeble placa de hielo con la manguera, el hombre terminaba cubierto por una fina capa de agua congelada que brillaba bajo el sol ocasional. 
 
 Pero al final esos fueron los dos únicos días de ese invierno cuando la pista de hielo fue lo que pretendía ser. El lunes todo se derritió y durante el resto del invierno, pese a los cuidados, pese a la atención, pese al trabajo dedicado de ese señor que nunca perdió la ilusión, la temperatura nunca se mantuvo lo suficientemente estable bajo el nivel requerido para que el hielo persistiera. 
 
-Este año, que no hay pista, el prado está inundado y una capa de hielo gruesa se extiende lentamente a lo largo y ancho del área donde hace un año había un marco esperándola con ansia.  
+Este invierno, que no hay pista, el prado está inundado y una capa de hielo gruesa se extiende lentamente a lo largo y ancho del área donde hace un año había un marco esperándola con ansia.  
