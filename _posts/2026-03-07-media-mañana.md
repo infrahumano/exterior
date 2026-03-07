@@ -19,6 +19,6 @@ No sé cómo nos alejamos del grupo. No sé si nos perdieron o los perdimos. Rec
 
 El suelo era una esponja de fango. Y alrededor la niebla. 
 
-También hay niebla en mi memoria el día que en un paseo del colegio fuimos acechados por un oso. Nadie lo vio, pero lo sentimos. 
+También hay bruma en mi memoria el día que en un paseo del colegio fuimos acechados por un oso. Nadie lo vio, pero lo sentimos. 
 
-Ahora es sábado de 2026. Las montañas son casi un sueño desde acá. Perdidas en otro mundo. Una añoranza recurrente que se exacerba con la niebla. 
+Ahora es sábado de 2026. Las montañas son casi un sueño desde acá. Perdidas en otro mundo. Deidades primigenias que siempre me esperan de regreso. Inexpugnables, pacientes, eternas. Una añoranza recurrente que se exacerba con la niebla. 
